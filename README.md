@@ -24,3 +24,5 @@ Warstwa gęsta: Tak samo jak w poprzednich modelach.
 
 Trenowanie i walidacja:
 Modele są trenowane na danych treningowych z monitorowaniem na zestawie walidacyjnym. Optymalizator 'adam' i funkcja straty 'categorical_crossentropy' są używane we wszystkich modelach, a jako metryka wybrano 'accuracy'.
+
+https://www.kaggle.com/datasets/jessicali9530/kuc-hackathon-winter-2018/versions/2?resource=download 
